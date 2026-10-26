@@ -1,0 +1,8 @@
+{
+  "name": "marci-metzger-homes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "py -m http.server 5173"
+  }
+}
